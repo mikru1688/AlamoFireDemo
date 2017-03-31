@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "BF489E03CCC1C1427F9178E9EF517FA640F5E19F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "BF489E03CCC1C1427F9178E9EF517FA640F5E19F" : 9223372036854775807,
+    "AC753A2F328F99BFA56085F960E051F506099CF7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2E23111-0846-4E9B-81D7-AA76A4616B99",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "BF489E03CCC1C1427F9178E9EF517FA640F5E19F" : "AlamoFireDemo\/",
+    "AC753A2F328F99BFA56085F960E051F506099CF7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AlamoFireDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AlamoFireDemo.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mikru1688\/Teaching.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC753A2F328F99BFA56085F960E051F506099CF7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mikru1688\/AlamoFireDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BF489E03CCC1C1427F9178E9EF517FA640F5E19F"
+    }
+  ]
+}
